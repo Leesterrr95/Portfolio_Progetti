@@ -33,6 +33,9 @@ Uno script Python per raccogliere automaticamente informazioni da [Books to Scra
 ##  Come usarlo
 
 1. Clona la repo o copia il file `.py` nel tuo ambiente.
-2. Installa i pacchetti richiesti (se non li hai già)
+2. Installa i pacchetti richiesti (se non li hai già):
+
+   ```bash
+pip install requests beautifulsoup4 pandas lxml
 
 
