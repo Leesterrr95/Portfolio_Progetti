@@ -1,1 +1,1 @@
-[Link](../../Python/Book Scraping)
+[Link](../../Python/Book%20Scraping)
