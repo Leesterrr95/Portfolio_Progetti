@@ -37,5 +37,3 @@ Uno script Python per raccogliere automaticamente informazioni da [Books to Scra
    
 ```bash
 pip install requests beautifulsoup4 pandas lxml
-
-
