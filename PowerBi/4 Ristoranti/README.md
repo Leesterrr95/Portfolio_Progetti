@@ -57,5 +57,5 @@ La dashboard è suddivisa in 4 sezioni:
 **Leonardo Lorenzetti**  
 *Data Analyst*  
 [LinkedIn](https://linkedin.com/in/leonardo-lorenzetti-717563143)  
-leonardo.lorenzetti95@gmail.com
+Mail: leonardo.lorenzetti95@gmail.com
 
