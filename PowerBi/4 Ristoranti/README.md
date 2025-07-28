@@ -44,12 +44,6 @@ La dashboard è suddivisa in 4 sezioni:
 
 ---
 
-## 📎 Risorse
-
-- [Logica e formule tecniche (DAX)](./logica-dashboard.md)
-
----
-
 ## 🛠️ Tecnologie utilizzate
 
 - **Power BI Desktop**
