@@ -46,7 +46,6 @@ La dashboard è suddivisa in 4 sezioni:
 
 ## 📎 Risorse
 
-- [Scarica il file Power BI (.pbix)](./Dashboard-4-Ristoranti.pbix) 
 - [Logica e formule tecniche (DAX)](./logica-dashboard.md)
 
 ---
