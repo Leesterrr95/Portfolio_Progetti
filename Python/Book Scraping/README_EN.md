@@ -30,11 +30,3 @@ The project extracts details such as title, price, availability, rating, descrip
  Exports all data into a CSV file: `Libri totali.CSV`
 
 ---
-
-##  How to Use
-
-1. Clone the repo or copy the `.py` file to your environment  
-2. Install the required packages (if you haven’t already):
-
-```bash
-pip install requests beautifulsoup4 pandas lxml
